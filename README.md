@@ -1,2 +1,2 @@
 # FourInARow
-Arduino - Four in a Row game (Connect Four) with Matrix (8x8)
+Arduino - Four in a Row game (Connect Four) for SunFounder Matrix (8x8)
