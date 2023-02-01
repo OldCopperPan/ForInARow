@@ -1,2 +1,2 @@
 # ForInARow
-Arduino For in a row (Connect Four) with Matrix (8x8)
+Arduino For in a Row game (Connect Four) with Matrix (8x8)
